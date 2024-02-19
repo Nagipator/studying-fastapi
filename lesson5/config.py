@@ -1,0 +1,7 @@
+DATABASE_USER = "admin"
+DATABASE_PASSWORD = "123"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = 4200
+DATABASE_NAME = "fast_api_hw"
+
+SQL_ECHO = True
